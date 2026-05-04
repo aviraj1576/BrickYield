@@ -4,7 +4,7 @@
 
 ### 1. Database Setup
 1.  Open **MySQL Workbench**.
-2.  Import the `schema.sql` file located in the `database/` folder.
+2.  Import the `db.sql` file located in the `database/` folder.
 3.  Ensure the MySQL service is running on your machine.
 
 ### 2. Backend Setup
